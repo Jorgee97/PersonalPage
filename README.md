@@ -3,6 +3,7 @@ Using HUGO for creating my static personal page at [My Github page](https://jorg
 
 # Credits
 [HUGO](https://gohugo.io/)
+
 [BeautifulHugo](https://github.com/halogenica/beautifulhugo)
 
 
